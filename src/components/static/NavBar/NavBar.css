@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow|Tomorrow:400,700&display=swap");
+
+
+
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.back {
+    background: linear-gradient(45deg,#7e138f 18%, #5c1c73 46% )!important;
+
+}
+
+.textos
+{
+    text-decoration: none !important;
+    font-family: Tomorrow, sans-serif !important;
+    font-weight: bold !important;
+    color: antiquewhite !important;
+
+}
